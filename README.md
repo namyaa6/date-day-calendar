@@ -9,5 +9,5 @@ Features:
 4. Can handle historical and future dates  
 5. Takes care of leap years
 
-Hope you like it
+Hope you like it <br>
 -Namya Jain
